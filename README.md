@@ -2,7 +2,8 @@
 <img width="290" height="174" alt="image" src="https://github.com/user-attachments/assets/789be7b5-2294-4b38-8f34-8456e5447c0e" />
 
 <h1>Microsoft Azure Virtual Machine Infrastructure</h1>
-This tutorial focuses on establishing the necessary infrastructure in Microsoft Azure for an Active Directory deployment. This includes creating the required cloud resources, configuring a virtual network, deploying virtual machines, and confirming proper network communication between systems before implementing Active Directory Domain Services.<br />
+This project focuses on building a cloud-based Windows Server environment in Microsoft Azure. 
+The lab covers virtual machine deployment, network configuration, and system connectivity verification.<br />
 
 <h2>Environments and Technologies Used</h2>
 
